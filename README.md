@@ -1,6 +1,8 @@
 # sky-planisphere
 This project is based on the work of Dominic Ford (https://in-the-sky.org/planisphere/ & https://github.com/dcf21/planisphere)
 
+The 3D parts were created with FreeCad 0.18.4 (https://www.freecadweb.org/)
+
 The entire planisphere is build with 7 parts:
 1. Base (3D Printed)
 2. Star Wheel (3D Printed)
